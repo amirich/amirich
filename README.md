@@ -1,4 +1,4 @@
-### ⬜ Owner (main): [Github](https://github.com/Amirkhon3223#hi-there-im-amirkhon-)
+### ⬜ Owner (main accaunt): [Amirkhon3223](https://github.com/Amirkhon3223#hi-there-im-amirkhon-)
 ### Hi there, I'm Amirkhon! 👋
 - 🅰️ Front-End Developer Angular
 - 🧑‍💻 I’m currently to be a Fullstack-Developer
